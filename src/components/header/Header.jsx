@@ -14,7 +14,7 @@ const Header = () => {
         <CTA/>
         <HeaderSocials/>
         <div className="me">
-          <img src={ME} alt="me" />
+          <img src="https://static.vecteezy.com/system/resources/thumbnails/042/165/684/small/a-woman-in-a-business-suit-holding-a-laptop-free-png.png" alt="me" />
         </div>
         <a href="#contact" className="scroll__down">Scroll Down</a>
       </div>
