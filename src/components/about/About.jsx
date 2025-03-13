@@ -12,7 +12,7 @@ const About = () => {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src="https://static.vecteezy.com/system/resources/thumbnails/042/165/684/small/a-woman-in-a-business-suit-holding-a-laptop-free-png.png alt="about-me" />
+            <img src="https://static.vecteezy.com/system/resources/thumbnails/042/165/684/small/a-woman-in-a-business-suit-holding-a-laptop-free-png.png" alt="about-me" />
           </div>
         </div>
         <div className="about__content">
